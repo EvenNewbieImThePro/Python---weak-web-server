@@ -2,4 +2,4 @@
 SQL injection defend
 
 how to run this server?
-python app.py
+1. type python app.py in command line
